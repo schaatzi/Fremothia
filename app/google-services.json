@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1009212673189",
+    "project_id": "pre-qa-checklist",
+    "storage_bucket": "pre-qa-checklist.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1009212673189:android:388bcc03dc95e46408114c",
+        "android_client_info": {
+          "package_name": "com.example.preqachecklsit"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2JViiImzUPluGJMoVLNU0sjr1oaqe2cY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
